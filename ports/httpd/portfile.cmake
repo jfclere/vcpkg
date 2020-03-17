@@ -3,7 +3,7 @@ include(vcpkg_common_functions)
 vcpkg_download_distfile(ARCHIVE
   URLS "https://archive.apache.org/dist/httpd/httpd-2.4.41.tar.bz2"
   FILENAME "httpd-2.4.41.tar.bz2"
-  SHA256 133d48298fe5315ae9366a0ec66282fa4040efa5d566174481077ade7d18ea40
+  SHA512 350cc7dcd2c439e0590338fa6da3f44df44f9bb885c381e91f91b14c2f48597f6f0bbac0ea118a8a67eaa70ae7edbb769beace368643ed73f6daee44c307b335
 )
 
 vcpkg_extract_source_archive_ex(
