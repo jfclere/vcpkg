@@ -1,0 +1,5 @@
+Source: httpd
+Version: 2.4.41
+Homepage: https://httpd.apache.org/
+Description: The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows.
+Build-Depends: expat, apr, openssl, apr-util
